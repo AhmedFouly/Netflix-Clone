@@ -11,5 +11,6 @@ A simple JavaScript movie app built it during ITI Intensive Bootcamp.
 - Semantic HTML.
 - CSS Custom Properties.
 - JavaScript.
+- Media Queries for Responsive Design
 - TMDB API.
-- Postman.
+- Postman to test API.
